@@ -23,9 +23,9 @@ var data = {
       github_username: "ricarellano"
     },
     {
-      first_name: 'The', 
+      first_name: 'The',
       last_name: 'Octocat',
-      github_username: 'octocat'    
+      github_username: 'octocat'
     },
     {
       first_name: 'Ryan',
@@ -39,7 +39,7 @@ var data = {
       github_username: 'nzoLogic'
     },
     {
-      first_name: "Ryan", 
+      first_name: "Ryan",
       last_name: "Thomas",
       github_username: "ryanthomas92"
     },
@@ -65,18 +65,18 @@ var data = {
       last_name: "Blair",
       github_username: "mblair415",
       motorcycle: "Honda Ruckus"
-    }, 
+    },
     {
       last_name: "Cusimano",
       first_name: "Zach",
       github_username: "c00z"
-    },           
+    },
     {
       last_name: "Silva",
       first_name: "Greice",
       github_username: "greicens"
-    }          
-  
+    }
+
   ],
   instructional_team: [
     {
@@ -91,4 +91,3 @@ var data = {
     }
   ]
 };
-
